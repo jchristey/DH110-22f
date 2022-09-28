@@ -6,4 +6,4 @@
 
 In this project, 
 
-![screen shot of sustainable city home page] (sustainable-cities)
+![screen shot of sustainable city home page](sustainable-cities)
