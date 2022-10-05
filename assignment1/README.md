@@ -65,7 +65,7 @@ Error prevention is successful. I didn’t encounter any error messaging. **(0)*
 
 In the “Local Recycling Information” section of the site the description reads “To find out what’s recycled in your local curbside program, look up your city, or county (if in an unincorporated area) below”. However, the links lead directly to external city sites. Each site has their own organization and the user may find it difficult to remember that they are searching for “what’s recycled” **(2)**
 
-![screen shot of Find your Local Recylers page](../findyourlocal.png)
+![screen shot of Find your Local Recylers page](../findyoulocal.png)
 
 *Recommendation: Change the text to “Learn more about recycling in your community”, to reduce users’ need to go back to the launch page to remember what they are searching for on this separately linked site. Or incorporate the information from said communities into the site itself (note: this, however, would need to be updated regularly)*
 
