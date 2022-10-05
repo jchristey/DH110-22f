@@ -46,7 +46,7 @@ Some of the terms employed may be out of the users’ vocabulary, especially for
 
 User can fairly easily navigate back towards the main menu when clicking on any element of the site. Some confusion may come from links leading to new sites (such as the local recycling information pages), in this case users can no longer see menu bar and must navigate back to main site. **(2)**
 
-![screen shot of example of an external file](../externalfile.png)
+![screen shot of example of an external file](../externalsite.png)
 
 Example of an external folder linked on the site.
 
