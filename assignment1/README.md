@@ -87,6 +87,8 @@ The design of the site seems to be appropriate for their target audience, as the
 
 Search bar error message is concise and constructive. However through some trials it does seem to not pick up on misspelled terms or inconcise searches. **(1)**
 
+![screen shot of search bar error message](../SearchErrorMessage)
+
 *Recommendation: Could provide suggestions for misspelled words/related ideas.*
 
 
