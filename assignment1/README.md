@@ -25,7 +25,7 @@ https://irecyclesmart.com/organics/?gclid=CjwKCAjws--ZBhAXEiwAv-RNL3ui9vpE_2Hkgz
 
 This site covers elements that are and are not recyclable as well as local information regarding recycling more generally. The design of the site seems to indicate that it could be used for educating young children about these concepts, as there is a cartoon turtle present throughout. Though rudimentary in some elements the site is succesful in its intention to provide direct contact with information regarding what can and cannot be recycled. 
 
-
+![screen shot of site home page](../homepage1.png)
 
 #### 1: Visibility of System Status
 
@@ -90,7 +90,7 @@ In the “Local Recycling Information” section of the site the cities are list
 
 The design of the site seems to be appropriate for their target audience, as the more colorful interface seems to be geared towards keeping children engaged in the content of the site. **(2)**
 
-![screen shot of site home page: child friendly](../ChildFriendlyDesign.png)
+![screen shot of site home page: child friendly](../turtle.png)
 
 *Recommendation: Include more interactive elements to further cater to a younger audience and make a more effective educational tool (i.e. allowing user to move items into appropriate bins, etc)*
 
@@ -115,7 +115,9 @@ There is no designated “Help” section of the site. If a user is confused on 
 
 https://www.lacompost.org/start-composting 
 
-The next site I’ve analyzed is more aligned in terms of what my intended project will do (locating spaces near you to compost food waste).
+The next site I’ve analyzed is more aligned in terms of what my intended project will do (locating spaces near you to compost food waste). The website is successful in conveying the necessary information with little to no issues. However, the user could be given more freedom and the design could be adjusted to better reflect their intentions and ameliorate the user's experience.
+
+![screen shot of home page](../homepage.png)
 
 
 #### 1: Visibility of System Status
