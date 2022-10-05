@@ -37,12 +37,18 @@ When scrolling down the page the user loses sight of the menu bar and the title 
 
 Some of the terms employed may be out of the users’ vocabulary, especially for young users terms such as “Digital Display Ads” and “Social Media and Print Assets” may not be in their wheelhouse. **(3)**
 
+![screen shot of advancedlanguage](../language.png)
+
 *Recommendation: Make a section of the site clearly designated for children users to explore and interact with the material and a section of the site intended for adult users to gain access to said educational materials.*
 
 
 #### 3: User Control and Freedom
 
 User can fairly easily navigate back towards the main menu when clicking on any element of the site. Some confusion may come from links leading to new sites (such as the local recycling information pages), in this case users can no longer see menu bar and must navigate back to main site. **(2)**
+
+![screen shot of example of an external file](../externalfile.png)
+
+Example of an external folder linked on the site.
 
 *Recommendation: Clearly indicate when user will be directed to another site and make this disctinct among links.*
 
@@ -139,6 +145,8 @@ When users click on the Shop page of the site they are led to an external site o
 #### 4: Consistency and Standards
 
 “About” section is located first in the menu bar rather than a “Home” section or the page dedicated to the practical intention of the site. **(1)**
+
+![screen shot of site Menu bar](../menubar.png)
 
 *Recommendation: Move about section closer to the end of menu bar.*
 
