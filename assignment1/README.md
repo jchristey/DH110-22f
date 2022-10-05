@@ -56,15 +56,16 @@ There are links to relevant pages used throughout the site – however, It is no
 
 #### 5: Error Prevention
 
-Error prevention is fairly successful. I didn’t encounter any error messaging. **(0)**
+Error prevention is successful. I didn’t encounter any error messaging. **(0)**
 
 *No improvements.*
 
 
 #### 6: Recognition Rather than Recall
 
-In the “Local Recycling Information” section of the site the description reads “To find out what’s recycled in your local curbside program,
-look up your city, or county (if in an unincorporated area) below”. However, the links lead directly to external city sites. Each site has their own organization and the user may find it difficult to remember that they are searching for “what’s recycled” **(2)**
+In the “Local Recycling Information” section of the site the description reads “To find out what’s recycled in your local curbside program, look up your city, or county (if in an unincorporated area) below”. However, the links lead directly to external city sites. Each site has their own organization and the user may find it difficult to remember that they are searching for “what’s recycled” **(2)**
+
+![screen shot of Find your Local Recylers page](../findyourlocal.png)
 
 *Recommendation: Change the text to “Learn more about recycling in your community”, to reduce users’ need to go back to the launch page to remember what they are searching for on this separately linked site. Or incorporate the information from said communities into the site itself (note: this, however, would need to be updated regularly)*
 
@@ -72,6 +73,8 @@ look up your city, or county (if in an unincorporated area) below”. However, t
 #### 7: Flexibility and Efficiency of Use
 
 In the “Local Recycling Information” section of the site the cities are listed in section by first letter in alphabetical order, making it a fairly long process to find your city. **(2)**
+
+![screen shot of cities search function](../nolookup.png)
 
 *Recommendation: Incorporate an internal search bar for either city name or zip code in order to streamline the process of finding local guidelines.*
 
@@ -111,6 +114,8 @@ The next site I’ve analyzed is more aligned in terms of what my intended proje
 #### 1: Visibility of System Status
 
 When a user selects “View all available locations” they are brought to other educational pamphlets before the map of locations. This makes for a disconnect between what the user wants to see and what they are being shown. **(2)**
+
+![screen shot of find function of site](../findnow.png)
 
 *Recommendation: Lead users directly to an interactive map of locations and provide other information secondarily (perhaps as a legend in the map).*
 
@@ -155,6 +160,8 @@ The menu bar doesn’t indicate which page the user is currently reading so the 
 #### 7: Flexibility and Efficiency of Use
 
 There is a “Jump Straight to Farmers Market” option for those looking for easy access to the map view of location sites. However, in order to use this function one would have to have sufficient knowledge of what it is they are searching for (i.e. a “farmers’ market” as opposed to a “drop off site” or other term). Additionally, there is no search bar apparent on the site. Users have to manually navigate. **(2)**
+
+![screen shot of location map](../map.png)
 
 *Recommendation: Add a search bar to help users navigate the site more quickly.*
 
