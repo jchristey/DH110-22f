@@ -80,6 +80,8 @@ In the “Local Recycling Information” section of the site the cities are list
 
 The design of the site seems to be appropriate for their target audience, as the more colorful interface seems to be geared towards keeping children engaged in the content of the site. **(2)**
 
+![screen shot of site home page: child friendly](../ChildFriendlyDesign.png)
+
 *Recommendation: Include more interactive elements to further cater to a younger audience and make a more effective educational tool (i.e. allowing user to move items into appropriate bins, etc)*
 
 
@@ -87,9 +89,9 @@ The design of the site seems to be appropriate for their target audience, as the
 
 Search bar error message is concise and constructive. However through some trials it does seem to not pick up on misspelled terms or inconcise searches. **(1)**
 
-![screen shot of search bar error message](../SearchErrorMessage)
+![screen shot of search bar error message](../SearchErrorMessage.png)
 
-*Recommendation: Could provide suggestions for misspelled words/related ideas.*
+*Recommendation: Provide suggestions for misspelled words/related ideas.*
 
 
 #### 10: Help and Documentation
@@ -123,6 +125,8 @@ The site uses easily comprehensible visual elements as well as vocabulary to con
 #### 3: User Control and Freedom
 
 When users click on the Shop page of the site they are led to an external site on a separate tab. They need to change tabs again to get back to the original site. **(1)**
+
+![screen shot of site reroute to Shop page](../ShopLinkSite.png)
 
 *Recommendation: If possible incorporate the Shop portion into the main site opposed to having a separate website that is externally linked.*
 
@@ -159,6 +163,8 @@ There is a “Jump Straight to Farmers Market” option for those looking for ea
 
 PDF documents are uploaded on the site for further information. However, the size shown is too zoomed in and doesn’t allow the user to adjust viewing size unless it is downloaded. Additionally, some PDFs uploaded are blurry. **(2)**
 
+![screen shot of blurry PDF document](../blurryPDF.png)
+
 *Recommendation: Allow users to view PDF at desired size on the site itself. And improve image quality of documents uploaded.*
 
 
@@ -176,6 +182,3 @@ No FAQ section or Help documentation. **(1)**
 *Recommendation: Add a “Frequently Asked Questions” section for additional help and information. And possibly a chat box in order to help users in need of additional information.*
 
 
-
-
-![screen shot of sustainable city home page](../screenshot-sustainablecities.png)
