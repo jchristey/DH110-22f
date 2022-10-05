@@ -28,26 +28,30 @@ This site covers elements that are and are not recyclable as well as local infor
 
 #### 1: Visibility of System Status
 
-When scrolling down the page the user loses sight of the menu bar and the title of the page they are currently accessing. This may lead to confusion as to what information they are looking at and what stage of the site they are in. 
-Have the menu bar follow the user as they scroll down the page to easily change tabs while reading. Indicate the page you are currently on in the menu bar through changing the color or boldness. 
+When scrolling down the page the user loses sight of the menu bar and the title of the page they are currently accessing. This may lead to confusion as to what information they are looking at and what stage of the site they are in. **(1)**
+
+*Recommendation: Have the menu bar follow the user as they scroll down the page to easily change tabs while reading. Indicate the page you are currently on in the menu bar through changing the color or boldness.* 
 
 
 #### 2: Match between System and the Real World
 
-Some of the terms employed may be out of the users’ vocabulary, especially for young users terms such as “Digital Display Ads” and “Social Media and Print Assets” may not be in their wheelhouse. 
-Make a section of the site clearly designated for children users to explore and interact with the material and a section of the site intended for adult users to gain access to said educational materials
+Some of the terms employed may be out of the users’ vocabulary, especially for young users terms such as “Digital Display Ads” and “Social Media and Print Assets” may not be in their wheelhouse. **(3)**
+
+*Recommendation: Make a section of the site clearly designated for children users to explore and interact with the material and a section of the site intended for adult users to gain access to said educational materials.*
 
 
 #### 3: User Control and Freedom
 
-User can fairly easily navigate back towards the main menu when clicking on any element of the site. Some confusion may come from links leading to new sites (such as the local recycling information pages), in this case users can no longer see menu bar and must navigate back to main site. 
-Clearly indicate when user will be directed to another site and make this disctinct among links. 
+User can fairly easily navigate back towards the main menu when clicking on any element of the site. Some confusion may come from links leading to new sites (such as the local recycling information pages), in this case users can no longer see menu bar and must navigate back to main site. **(2)**
+
+*Recommendation: Clearly indicate when user will be directed to another site and make this disctinct among links.*
 
 
 #### 4: Consistency and Standards
 
-There are links to relevant pages used throughout the site – however, It is not clearly indicated what the link is going to lead to (i.e. external tabs, Google Drives, or other sections of the site.
-Clearly indicate what a link will lead the user to as well as the information they will find there.  
+There are links to relevant pages used throughout the site – however, It is not clearly indicated what the link is going to lead to (i.e. external tabs, Google Drives, or other sections of the site. The user may become frustrated by consistently being led to external tabs. **(2)**
+
+*Recommendation: Clearly indicate what a link will lead the user to as well as the information they will find there.*  
 
 
 #### 5: Error Prevention
