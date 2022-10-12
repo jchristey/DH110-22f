@@ -12,6 +12,8 @@ The ['I Recycle Smart' website](https://irecyclesmart.com/?gclid=CjwKCAjwqJSaBhB
 
 In general, the purpose of a usability test (UT) is to observe how users interact with a product and to gather their feedback in terms of its use. The goal of the UT is specifically to gage whether the product is effective, efficient, and satisfactory in order to make necessary improvements to ameliorate the user experience. Because of its nature, in which the moderator observes the user naviagting the product and hears their thoughts aloud as they do so, UT is on of the best ways to understand the user's experience with the product. 
 
+In my heuristic evaluation I found that the site could use some improvement in terms of user control and freedom and flexibility and efficiency of use. Because of this, in this specific UT I wanted to observe how the user found less prominent features of the site, such as the "grass clippings" section, the drop-off mandated items section and the locator associated, and the city lookup function, in order to complete tasks related to finding what they can recycle and how to do so. 
+
 #### Methodology
 
 I moderated this usability test with my roommate, Ellie, in the living room of our apartment. Zoom was used to record our audio and video as well as to record the screen as she moved through the tasks. 
