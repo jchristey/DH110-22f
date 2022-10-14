@@ -7,20 +7,24 @@
 #### Research Goal and Requirements 
 
 For this project I'm curious as to the process of composting on campus. 
-I narrowed down a student initiative on campus which encourages students to get involved in gardening. 
-The initiative is called [DigUCLA](http://digucla.weebly.com/), the garden located in Sunset Rec hosts weekly gardening workshops, welcomes gardeners of all experience levels and all the produce grown is donated to the CPO Food Closet.
-
-I decided to attend one of their weekly garden workshops in order to observe how students interact with the garden and speak to both experienced and novice gardeners to learn about the opportunities at the garden and the work they do.
+I narrowed down a student initiative on campus which encourages students to get involved in gardening; the initiative is called [DigUCLA](http://digucla.weebly.com/).
+The garden located in Sunset Rec hosts weekly gardening workshops, welcomes gardeners of all experience levels and all the produce grown is donated to the CPO Food Closet.
 
 #### Target User
 
-The target users in this scenario are college students. Perhaps most specifically those that are fairly new to gardening and compost and are looking to get involved and learn more. 
+Demographics: The target users in this scenario are college students. Perhaps most specifically those that are fairly new to the concept of compost and are looking to get involved and learn more. 
+
+Preferences: Users care about the environment and the sustainability of their day to day activities. They may be inexperienced in composting or gardening but are aware that they "should do it" or vaguely aware of its benefits. 
+
+Expertise: User do not need any particular level of expertise to use this application.
 
 #### Research Methods and Plan
 
-#### Interview / Observation Guide
+I decided to attend one of their weekly garden workshops in order to observe how students interact with the garden and speak to both experienced and novice gardeners to learn about the opportunities at the garden and the work they do.
 
-#### Data Files 
+Within the context of this 
 
-#### Transcript of interview 
+#### Research Materials
+
+#### Reflection
 
