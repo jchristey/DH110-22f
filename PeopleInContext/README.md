@@ -20,9 +20,13 @@ Expertise: User do not need any particular level of expertise to use this applic
 
 #### Research Methods and Plan
 
-I decided to attend one of their weekly garden workshops in order to observe how students interact with the garden and speak to both experienced and novice gardeners to learn about the opportunities at the garden and the work they do.
+My initial plan was to attend one of DigUCLA's weekly garden workshops in order to observe how students interact with the garden and speak to both experienced and novice gardeners to learn about the opportunities at the garden, the work they do, and what draws them to do more.
 
-Within the context of this 
+Usually this organization has gardening and compost events on Sunday's from 12-2pm – however, when I went to the space it was closed with no one there. I still took this opportunity to look around and take some pictures of the physical space where students interact with the garden. 
+
+I also messaged their instagram account in order to get in touch with one of the members of the organization to speak more about their process and approach to compost – however, this did not receive a response. 
+
+Observation pictures are attached below for reference. 
 
 #### Research Materials
 
