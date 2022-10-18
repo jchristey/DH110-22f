@@ -28,6 +28,10 @@ I also messaged their instagram account in order to get in touch with one of the
 
 Observation pictures are attached below for reference. 
 
+![picture of closed garden 1](../THISONE1.png)
+![picture of closed garden 2](../THISONE2.png)
+![picture of closed garden 3](../THISONE3.png)
+
 #### Research Materials
 
 #### Reflection
