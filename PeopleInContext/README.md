@@ -38,5 +38,7 @@ Observation pictures are attached below for reference.
 
 Linked [here](https://docs.google.com/document/d/1ny5gOdyWA5-hOb_4wRPG_QkUHHij_X00wCsUx_9TqQE/edit?usp=sharing) is the script used for my contextual inquiry interview.
 
+And linked [here](https://drive.google.com/drive/folders/17AsJy5AZP5eTY3FpiSu9H5Kw8T9E1jC9?usp=sharing) is the recording of said interview. 
+
 #### Reflection
 
