@@ -36,7 +36,7 @@ Observation pictures are attached below for reference.
 
 #### Research Materials
 
-Linke[here](https://docs.google.com/document/d/1ny5gOdyWA5-hOb_4wRPG_QkUHHij_X00wCsUx_9TqQE/edit?usp=sharing) is the script used for my contextual inquiry interview.
+Linked [here](https://docs.google.com/document/d/1ny5gOdyWA5-hOb_4wRPG_QkUHHij_X00wCsUx_9TqQE/edit?usp=sharing) is the script used for my contextual inquiry interview.
 
 #### Reflection
 
