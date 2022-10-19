@@ -28,7 +28,7 @@ I also messaged their instagram account in order to get in touch with one of the
 
 Observation pictures are attached below for reference. 
 
-![picture of closed garden 1](../THISONE1.HEIC)
+![picture of closed garden 1](Screen%20Shot%202022-10-18%20at%208.08.50%20PM.png)
 
 ![picture of closed garden 2](../THISONE2.HEIC)
 
