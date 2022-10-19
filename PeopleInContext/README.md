@@ -32,7 +32,9 @@ Observation pictures are attached below for reference.
 
 ![picture of closed garden 2](Screen%20Shot%202022-10-18%20at%208.08.58%20PM.png)
 
-![picture of closed garden 3](../THISONE3.HEIC)
+![picture of closed garden 3](Screen%20Shot%202022-10-18%20at%208.09.08%20PM.png)
+
+Because of this roadblock in my plan, I decided to conduct a contextual inquiry interview with my roommate, Amanda, about her experience composting. 
 
 #### Research Materials
 
@@ -41,4 +43,12 @@ Linked [here](https://docs.google.com/document/d/1ny5gOdyWA5-hOb_4wRPG_QkUHHij_X
 And linked [here](https://drive.google.com/drive/folders/17AsJy5AZP5eTY3FpiSu9H5Kw8T9E1jC9?usp=sharing) is the recording of said interview. 
 
 #### Reflection
+
+There were a few noteworthy insights I got from this interview. The first was the apparence of what truly matters to this demographic (college students): *convenience* and *minimized cost*. These users generally care about the environment but may be low on time and low on funds. Because of this the product needs to have a high ease of use as if the convenience factor is not apparent these users may not go out of their way to change their habits. Additionally, if the service could be provided for free or at a greatly reduced price it would vastly raise the number of participants. 
+
+From the background questions, I also discovered more in terms of the current reality of students in apartments in Westwood. While in dorms at UCLA students are encouraged to compost and recycle and the resources for them to do so are present (sectionned trash cans for recycling, compost, landfill) with information on what to put in each bin. However when students move to apartment buildings off campus they often aren't given the same resources to compost and are left asking what to do with their food scraps. 
+
+It was also important to see how much this potential user valued compost in comparison with other acts of sustainability. While she considered herself to be an environmentalist quite foundationally (7/10), she rated compost as being a 5/10 in terms of importance to her. This will be important to consider in either transitionning away from the subject of compost to a sustainability issue closer to students' hearts or when designing our product to do so with this in consideration. In this way, another design problem to solve will be emphasizing the importance of the issue and essentially making people care. 
+
+
 
