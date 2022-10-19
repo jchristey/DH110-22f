@@ -30,7 +30,7 @@ Observation pictures are attached below for reference.
 
 ![picture of closed garden 1](Screen%20Shot%202022-10-18%20at%208.08.50%20PM.png)
 
-![picture of closed garden 2](../THISONE2.HEIC)
+![picture of closed garden 2](Screen%20Shot%202022-10-18%20at%208.08.58%20PM.png)
 
 ![picture of closed garden 3](../THISONE3.HEIC)
 
