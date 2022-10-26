@@ -2,6 +2,20 @@
 
 ## Sustainable Cities | Jade Christey | DH110
 
+### UX Storytelling 
+
+The purpose of creating these personas and user scenarios is to put the researcher and designer in the shoes of users who may have varied desires and intentions in using the app. By using insights from contextual interviews and other steps of this process I was able to develop believable users of the app. Through this storytelling process I was able to create target users that are similar in geographic area (on and around college campuses) and age and education level (current college students), yet differ in their level of engagment with environmental issues and involvement within university composting initiatives. Thanks to this, I was able to create a more distinct picture of who is using which different features of the app and how best to design processes that are clear to these specific sets of users. 
+
+### Tasks
+
+#### 1: Create a garden profile
+
+Community and campus garden representatives will be able to establish profiles which other users can interact with and join. The founder or 'host' sets the profile with relevant information and location. 
+
+#### 2: Find your local garden 
+
+More novice users can use the app to quickly search for gardens on their campuses (or nearby) and the services they provide in order to schedule a pick up  or find a drop off location for their food scraps. 
+
 ### User Personas and Scenarios
 
 These two user personas will inform the design of the app from two ends of the spectrum. We have Rebecca who is more involved in enviornmental activism, using the platform as a means of publicity for her existing garden as a 'host' on the platform. While novice, Matt, is simply looking for an easy solution as to where to put his food scraps, making him a 'searcher'. 
