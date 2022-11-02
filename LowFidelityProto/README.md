@@ -6,13 +6,17 @@
 
 #### Brief Description
 
-The role of the low fidelity prototype is to sketch out an idea of different app/website functionality before concerning yourself with too much of the visual aspect of the design. By troubleshooting this process with a user I was able to gain more perspective in terms of what aspects were user-friendly and what I needed to adjust. 
+The purpose of this app is to connect college-aged students that may not have access to compost and local community/campus gardens. In doing so the gardens can collect and use the compost in a sustainable way and may even recruit new gardeners in the process. 
+
+The user personas I've created with this app in mind were Matt and Rebecca. Matt is a casual user simply looking to find a garden to take his food scraps. Rebecca on the other hand would be a 'founder' meaning she would create a profile for her campus garden in order to gain publicity, recruit and get people to compost more. With these two users in mind, I created two tasks, one of which each would probably engage in.
+
+The role of this low fidelity prototype is to sketch out an idea of different app/website functionality before becoming too concerned with the visual aspect of the app's design. By troubleshooting this process with a user I was able to gain more perspective in terms of what aspects were user-friendly and what I needed to adjust. 
 
 #### List of tasks 
 
 For this project I outlined two tasks that a user may use the app to accomplish:
 
-1 – The first task is to find a local garden and send them a message. This will consists of quite a few interactions: making an account, using the search bar, selecting a garden, and finding the message function. 
+1 – The first task is to find a local garden and send them a message. This will consists of quite a few interactions: making an account, using the search bar, selecting a garden, and finding the message function. This would be something that a more novice user would do if they had a question about how to utilize the garden's resources. 
 
 2 - The second task is to create an account for a garden and post a blog post. This task would be done on the app by a garden 'founder' and includes making the account and garden profile, navigating to the blog section, filling in the necessary information and posting. 
 
