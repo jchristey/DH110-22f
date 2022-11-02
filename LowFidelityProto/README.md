@@ -14,7 +14,7 @@
 
 #### The prototype
 
-![picture of closed garden 1](Screen%20Shot%202022-10-18%20at%208.08.50%20PM.png)
+![whole prototype](Proto1.png)
 
 #### Reflection
 
