@@ -32,11 +32,11 @@ For this project I outlined two tasks that a user may use the app to accomplish:
 
 ##### Task 1
 
-![task 1](Proto2.png)
+![task 1](IMG_7107.jpg)
 
 ##### Task 2
 
-![task 2](Proto2.png)
+![task 2](IMG_7106.jpg)
 
 #### Reflection
 
