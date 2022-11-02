@@ -30,6 +30,14 @@ For this project I outlined two tasks that a user may use the app to accomplish:
 
 #### Testing the tasks
 
+##### Task 1
+
+![task 1](Proto2.png)
+
+##### Task 2
+
+![task 2](Proto2.png)
+
 #### Reflection
 
 One thing that was challenging about user testing in the case of a low fidelity prototype was explaining the process to the participant. She hadn't participated in anything like this before and I think having to find the screen that would match a certain action she took wasn't exactly seamless. 
