@@ -6,7 +6,11 @@
 
 #### Brief Description
 
+The role of the low fidelity prototype is to sketch out an idea of different app/website functionality before concerning yourself with too much of the visual aspect of the design. By troubleshooting this process with a user I was able to gain more perspective in terms of what is user-friendly functionality and what I needed to adjust. 
+
 #### List of tasks 
+
+For this project I outlined two tasks that a user may use the app to accomplish:
 
 1 – The first task is to find a local garden and send them a message. This will consists of quite a few interactions: making an account, using the search bar, selecting a garden, and finding the message function. 
 
@@ -23,6 +27,8 @@
 #### Task 2
 
 ![task 2](Proto2.png)
+
+#### Testing the tasks
 
 #### Reflection
 
