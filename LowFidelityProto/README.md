@@ -6,7 +6,7 @@
 
 #### Brief Description
 
-The role of the low fidelity prototype is to sketch out an idea of different app/website functionality before concerning yourself with too much of the visual aspect of the design. By troubleshooting this process with a user I was able to gain more perspective in terms of what is user-friendly functionality and what I needed to adjust. 
+The role of the low fidelity prototype is to sketch out an idea of different app/website functionality before concerning yourself with too much of the visual aspect of the design. By troubleshooting this process with a user I was able to gain more perspective in terms of what aspects were user-friendly and what I needed to adjust. 
 
 #### List of tasks 
 
