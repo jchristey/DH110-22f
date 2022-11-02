@@ -14,7 +14,7 @@ For this project I outlined two tasks that a user may use the app to accomplish:
 
 1 – The first task is to find a local garden and send them a message. This will consists of quite a few interactions: making an account, using the search bar, selecting a garden, and finding the message function. 
 
-2 - The second task is to create an account for a garden and post a blog post. This task would be done by a garden 'founder on the site' and includes making the account, navigating to the blog section, filling in the necessary information and posting. 
+2 - The second task is to create an account for a garden and post a blog post. This task would be done on the app by a garden 'founder' and includes making the account and garden profile, navigating to the blog section, filling in the necessary information and posting. 
 
 #### The prototype overview 
 
