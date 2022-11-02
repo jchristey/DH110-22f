@@ -30,6 +30,8 @@ For this project I outlined two tasks that a user may use the app to accomplish:
 
 #### Testing the tasks
 
+Attached below are screenshots of the user's flow arrows. Attached [here](https://drive.google.com/drive/folders/1PqkHco8QMXvWrrW_XU9dZKQ4U_-YwN0x?usp=share_link) is the screenrecording of this process. 
+
 ##### Task 1
 
 ![task 1](IMG_7107.jpg)
