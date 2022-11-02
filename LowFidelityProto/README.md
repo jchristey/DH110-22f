@@ -12,9 +12,17 @@
 
 2 - The second task is to create an account for a garden and post a blog post. This task would be done by a garden 'founder on the site' and includes making the account, navigating to the blog section, filling in the necessary information and posting. 
 
-#### The prototype
+#### The prototype overview 
 
 ![whole prototype](Proto1.png)
+
+#### Task 1
+
+![task 1](Proto3.png)
+
+#### Task 2
+
+![task 2](Proto2.png)
 
 #### Reflection
 
