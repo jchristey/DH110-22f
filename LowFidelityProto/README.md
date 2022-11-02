@@ -20,7 +20,7 @@ For this project I outlined two tasks that a user may use the app to accomplish:
 
 ![whole prototype](Proto1.png)
 
-I decided to seperate the two tasks from one another as they would have the same initial landing page but the login and account creation sections would be seperate depending on the user, with 'founders' have more functions availible to them than simple guest to the app. As to not confuse the my user (in the case of the user test of this prototype, I elected to seperate these two flows. 
+I decided to seperate the two tasks from one another as they would have the same initial landing page but the login and account creation sections would be seperate depending on the user, with 'founders' have more functions availible to them than someone who is simply a guest on the app. As to not confuse the my user (in the case of the user test of this prototype) I elected to seperate these two flows. 
 
 #### Task 1
 
