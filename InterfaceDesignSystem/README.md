@@ -32,8 +32,10 @@ Linked [here](https://www.figma.com/file/f2Urjg6UhsWW1nYqiuRrfu/Low-Fidelity-Pro
 
 Linked [here](https://drive.google.com/drive/folders/1ok9FVkqj3L5891vNIX8O9tQquJb2ofZJ?usp=share_link) is the impression test. 
 
+Based on the impression test, the more rounded button, the blue color scheme, the Roboto Condensed font, and the split background logo were the desired 
+
 ### Accessibility check
 
-Link to the interface design page that shows your test screens and design system information
+![contrast check](contrast1.png)
 
 ### Final Graphical Interface Design: decision making process 
