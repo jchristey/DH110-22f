@@ -9,7 +9,7 @@ the purpose and process of this interface design (3-5 sentences)
 
 ### Digitized wireflow
 
-Linked [here]([https://drive.google.com/drive/folders/1PqkHco8QMXvWrrW_XU9dZKQ4U_-YwN0x?usp=share_link](https://www.figma.com/file/f2Urjg6UhsWW1nYqiuRrfu/Low-Fidelity-Prototype-(Copy)?t=N67ptB3BXJd7i2wc-1)) is the digitized wireflow. 
+Linked [here](https://www.figma.com/file/f2Urjg6UhsWW1nYqiuRrfu/Low-Fidelity-Prototype-(Copy)?t=N67ptB3BXJd7i2wc-1) is the digitized wireflow. 
 
 ### Graphical user interface design variation 
 
@@ -27,7 +27,7 @@ Linked [here]([https://drive.google.com/drive/folders/1PqkHco8QMXvWrrW_XU9dZKQ4U
 
 ### Impression test
 
-Linked [here](h[ttps://drive.google.com/drive/folders/1PqkHco8QMXvWrrW_XU9dZKQ4U_-YwN0x?usp=share_link](https://drive.google.com/drive/folders/1ok9FVkqj3L5891vNIX8O9tQquJb2ofZJ?usp=share_link)) is the impression test. 
+Linked [here](https://drive.google.com/drive/folders/1ok9FVkqj3L5891vNIX8O9tQquJb2ofZJ?usp=share_link) is the impression test. 
 
 ### Accessibility check
 
