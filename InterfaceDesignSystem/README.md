@@ -73,3 +73,7 @@ Based on the impression test, the more rounded button (20), the blue color schem
 ![contrast check](contrast3.png)
 
 Pictured above is one of the screenshots of the color contrast accessibility test done on Figma through the Plugin 'Color contrast'. I decided to feature the least glaring contrast to show that it still passes the WCAG AA test. 
+
+### Reflection 
+
+I loved working on interface design variation for this project. I'd be curious to see what the outcome of different impression tests would be, had I gotten more input from others. But I'm fairly happy with the clean-cut look of the final design and feel that it will work fairly seemless with other pages of the app. 
