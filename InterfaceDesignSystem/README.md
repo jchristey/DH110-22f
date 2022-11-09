@@ -5,13 +5,15 @@
 ### Interface Design
 
 ### Project Description
-The purpose of this project is connect people searching for places to compost with local/campus compost gardens, so that both can easily find a solution to their issues and contribute to the establishment of a more sustainable community in the process. In doing so I've established wireframes and a wireflow for a few interactions someone may have with the app. For this portion of the design process I've taken the 'login page' of the app as I believe it will set the tone for how the user will interact with the app as a whole. It is a portion of the site that both the novice user and the expert user would have to initially come into contact with, so it seems to be the perfect page to use as a basis for the interface design of the entire app. 
+The purpose of this project is connect people searching for places to compost with local/campus compost gardens, so that both can easily find a solution to their issues and contribute to the establishment of a more sustainable community in the process. In doing so I've established wireframes and a wireflow for a few interactions someone may have with the app. 
 
 ### Digitized wireflow
 
 Linked [here](https://www.figma.com/file/f2Urjg6UhsWW1nYqiuRrfu/Low-Fidelity-Prototype-(Copy)?t=N67ptB3BXJd7i2wc-1) is the digitized wireflow. 
 
 ### Graphical user interface design variation 
+
+For this portion of the design process I've taken the 'login page' of the app as I believe it will set the tone for how the user will interact with the app as a whole. It is a portion of the site that both the novice user and the expert user would have to initially come into contact with, so it seems to be the perfect page to use as a basis for the interface design of the entire app. 
 
 #### Design
 ![grid design](layout.png)
