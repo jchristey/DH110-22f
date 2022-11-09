@@ -13,6 +13,9 @@ Linked [here](https://www.figma.com/file/f2Urjg6UhsWW1nYqiuRrfu/Low-Fidelity-Pro
 
 ### Graphical user interface design variation 
 
+#### Design
+![grid design](layout.png)
+
 #### Color
 ![color variation](color.png)
 
