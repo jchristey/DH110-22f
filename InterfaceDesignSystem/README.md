@@ -76,4 +76,4 @@ Pictured above is one of the screenshots of the color contrast accessibility tes
 
 ### Reflection 
 
-I loved working on interface design variation for this project. I'd be curious to see what the outcome of different impression tests would be, had I gotten more input from others. But I'm fairly happy with the clean-cut look of the final design and feel that it will work fairly seemless with other pages of the app. 
+I loved working on interface design variation for this project. I'd be curious to see what the outcome of different impression tests would be, had I gotten more input from others. But I'm fairly happy with the clean-cut look of the final design and feel that it will work seemless with other pages of the app. 
