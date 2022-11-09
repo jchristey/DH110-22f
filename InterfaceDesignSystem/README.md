@@ -23,16 +23,42 @@ For this portion of the interface design process I used the row and column funct
 
 Here I provided a few color variations both in blue and green tints. 
 
+With the following colors for each color combination: 
 
+##### Green
+![green dark](green2.png)
+
+##### Blue
+![blue light](blue1.png)
 
 #### Typography
 ![typographic variation](font.png)
 
+The following samples have the use the fonts: 
+
+#1: Inter: which is good for online readibility as it was designed specifically for computer screens. 
+
+#2: Open Sens: which is fairly neutral and approachable, with an upright style. 
+
+#3: Roboto Condensed: a more geometric font, that still has some friendly curves. 
+
+All of which have varied weights associated with them accross the interface based on where the text is and what it is being used to say. 
+
 #### Shape 
 ![shape variation](shape.png)
 
+The following samples have buttons with varied 'roundedness'
+
+#1: 20
+
+#2: 5
+
+#3: 0
+
 #### Logo 
 ![logo variation](logo.png)
+
+The options above give variations of where the logo can be integrated into the interface design. 
 
 ### Impression test
 
@@ -43,3 +69,5 @@ Based on the impression test, the more rounded button, the blue color scheme, th
 ### Accessibility check
 
 ![contrast check](contrast3.png)
+
+Pictured above is one of the screenshots of the color contrast accessibility test done on Figma through the Plugin 'Color contrast'. I decided to feature the least glaring contrast to show that it still passes the WCAG AA test. 
