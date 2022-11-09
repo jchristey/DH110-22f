@@ -36,7 +36,7 @@ With the following colors for each color combination:
 #### Typography
 ![typographic variation](font.png)
 
-The following samples have the use the fonts: 
+The following samples use the fonts (from left to right): 
 
 #1: Inter: which is good for online readibility as it was designed specifically for computer screens. 
 
@@ -49,7 +49,7 @@ All of which have varied weights associated with them accross the interface base
 #### Shape 
 ![shape variation](shape.png)
 
-The following samples have buttons with varied 'roundedness'
+The following samples have buttons with varied 'roundedness' – (from left to right):
 
 #1: 20
 
