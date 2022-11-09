@@ -5,7 +5,7 @@
 ### Interface Design
 
 ### Project Description
-The purpose of this project is connect people searching for places to compost with local/campus compost gardens, so that both can easily find a solution to their issues and contribute to the establishment of a more sustainable community in the process. In doing so I've established wireframes and a wireflow for a few interactions someone may have with the app. 
+The purpose of this project is connect people searching for places to compost with local/campus compost gardens, so that both can easily find a solution to their issues and contribute to the establishment of a more sustainable community in the process. In doing so I've established wireframes and a wireflow for a few interactions someone may have with the app: setting up either a personal or garden account, locating a local garden, and sending a message. In this page we will delve deeper into the interface design of the app, specifically focusing on font, color, shape, layout and logo placement. 
 
 ### Digitized wireflow
 
