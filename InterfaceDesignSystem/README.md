@@ -18,7 +18,7 @@ For this portion of the design process I've taken the 'login page' of the app as
 #### Design
 ![grid design](layout.png)
 
-For this portion of the interface design process I used the row and column function of Figma to set up a grid within which to organize the essential elements of the login page. 
+For this portion of the interface design process I used the row and column function of Figma to set up a grid within which I organized the essential elements of the login page. 
 
 #### Color
 ![color variation](color.png)
