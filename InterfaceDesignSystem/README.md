@@ -44,7 +44,7 @@ The following samples use the fonts (from left to right):
 
 #3: Roboto Condensed: a more geometric font, that still has some friendly curves. 
 
-All of which have varied weights associated with them accross the interface based on where the text is and what it is being used to say. 
+All of which are in size 24 and have varied weights associated with them accross the interface based on where the text is and what it is being used to say. 
 
 #### Shape 
 ![shape variation](shape.png)
