@@ -14,16 +14,16 @@ Linked [here](https://www.figma.com/file/f2Urjg6UhsWW1nYqiuRrfu/Low-Fidelity-Pro
 ### Graphical user interface design variation 
 
 #### Color
-![color variation](Proto2.png)
+![color variation](color.png)
 
 #### Typography
-![typographic variation](Proto2.png)
+![typographic variation](font.png)
 
 #### Shape 
-![shape variation](Proto2.png)
+![shape variation](shape.png)
 
 #### Logo 
-![logo variation](Proto2.png)
+![logo variation](logo.png)
 
 ### Impression test
 
