@@ -36,6 +36,6 @@ Based on the impression test, the more rounded button, the blue color scheme, th
 
 ### Accessibility check
 
-![contrast check](contrast1.png)
+![contrast check](contrast3.png)
 
 ### Final Graphical Interface Design: decision making process 
