@@ -38,7 +38,7 @@ the app and is fairly comfortable with its use.
 
 #### Wireflow 
 
-The wireflow with interface design is linked [here](https://www.figma.com/file/wSkkQIW5BKMNLSUYTYEqy8/High-Fidelity-Prototype?node-id=0%3A1&t=EY5cyjERzr5a8MTo-1).
+The wireflow with interface design is linked [here](https://www.figma.com/file/8Cen20wBb15LwZUE5vPmX7/Prototype-with-design?node-id=0%3A1&t=ZdDpK23g8cB72x8Q-1).
 
 And a screenshot of the flow is attached below. 
 
