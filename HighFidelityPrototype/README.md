@@ -48,11 +48,11 @@ And a screenshot of the flow is attached below.
 
 The interactive prototype linked below supports both tasks outlined. 
 
-[here](https://www.figma.com/file/wSkkQIW5BKMNLSUYTYEqy8/High-Fidelity-Prototype?node-id=0%3A1&t=EY5cyjERzr5a8MTo-1) is the Figma file of the interactive prototype. 
+Linked [here](https://www.figma.com/file/wSkkQIW5BKMNLSUYTYEqy8/High-Fidelity-Prototype?node-id=0%3A1&t=EY5cyjERzr5a8MTo-1) is the Figma file of the interactive prototype. 
 
 And attached below is a screenshot of the interactive prototype. 
 
-![interactive prototype]()
+![interactive prototype](interactiveproto.png)
 
 #### Cognitive Walkthrough 
 
@@ -61,3 +61,5 @@ We will be completing the cognitive walkthrough in class.
 #### Reflection
 
 I ran through a few preliminary "cognitive walkthroughs" with my roommates but as they were in the earlier stages of the development of the high fidelity prototype and quite casual in nature I opted to leave them out. I did however opt to eliminate the 'back' function from the menu feature as having the app navigate the user back to a common page rather than the page you came from originally was quite disorientating so it seemed more straightforeward to have them be more in control of their navigation with the options listed below. I would have prefered the 'back' function navigate the user back to their last active page but I'm not sure how to do that or if it is possible within Figma's prototyping capabilities. I'll be sure to troubleshoot this in class during the cognitive walkthrough. 
+
+I've noted that when previewing the prototype on Figma some elements present in the editing interface design don't appear, I hope this is just due to a delay and that this should be functioning for the cognitive walkthrough in class. 
