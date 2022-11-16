@@ -6,6 +6,9 @@
 
 #### Brief Description
 
+My projects aims to connect hopeful novice gardeners or composters to local gardens. As well as provide gardeners access to 
+publicity and shared community through the app. The high fidelity prototype allows us to see the design in action by integrating interaction. In this way, the wireframe is fully fleshed out with interface design and the flow is in the hands of the user to navigate. 
+
 #### Tasks
 
 I've shown two specific tasks within this interactive prototype. 
