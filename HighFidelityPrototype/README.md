@@ -10,31 +10,25 @@
 
 I've shown two specific tasks within this interactive prototype. 
 
-1 – The first task is to find a local garden and send them a message. 
+1) The first task is to find a local garden and send them a message. 
 
 The interactions included in this task are as follows:
 
-a) Login to an account / sign up for an account
-
-b) Browse and find a garden
-
-c) Find the message function
-
-d) Send message
+- Login to an account / sign up for an account
+- Browse and find a garden
+- Find the message function
+- Send message
 
 This activity is one that would be done by a novice user in the case that they have a question regarding the garden's resources.
 
-2 - The second task is to create an account for a garden and post a blog post. 
+2) The second task is to create an account for a garden and post a blog post. 
 
 The interactions included in this task are as follows:
 
-a) Login to an account / sign up for an account
-
-b) Navigate to the blog section
-
-c) Fill in the necessary information 
-
-d) Post
+- Login to an account / sign up for an account
+- Navigate to the blog section
+- Fill in the necessary information 
+- Post
 
 This task would be done on the app by a garden 'founder', probably one that has already visited 
 the app and is fairly comfortable with its use. 
