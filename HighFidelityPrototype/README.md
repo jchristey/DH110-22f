@@ -42,7 +42,7 @@ The wireflow with interface design is linked [here](https://www.figma.com/file/w
 
 And a screenshot of the flow is attached below. 
 
-![prototype wireflow with design]()
+![prototype wireflow with design](ProtoWithDesign.png)
 
 #### Interactive Prototype
 
