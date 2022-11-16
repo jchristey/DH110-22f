@@ -48,7 +48,11 @@ And a screenshot of the flow is attached below.
 
 The interactive prototype linked below supports both tasks outlined. 
 
-[here]() is the Figma file of the interactive prototype. 
+[here](https://www.figma.com/file/wSkkQIW5BKMNLSUYTYEqy8/High-Fidelity-Prototype?node-id=0%3A1&t=EY5cyjERzr5a8MTo-1) is the Figma file of the interactive prototype. 
+
+And attached below is a screenshot of the interactive prototype. 
+
+![interactive prototype]()
 
 #### Cognitive Walkthrough 
 
