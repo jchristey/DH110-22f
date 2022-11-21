@@ -20,9 +20,11 @@ I've also established some design iterations of this app. For this portion of th
 
 I made a low fidelity prototype in order to troubleshoot interaction issues. Read more about the [low fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/LowFidelityProto/README.md). 
 
-After troubleshooting and reworking the interactions based on usability testing. 
+After troubleshooting and reworking the low fidelity prototype's interactions based on usability testing and adding in interface design elements, I made a [high fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/HighFidelityPrototype/README.md). 
 
 
 ### Evaluation 
+
+I also conducted a cognitive walkthrough using my high fidelity prototype. Based on the feedback received from users I implemented changes to the flow, login page, and blog layout. 
 
 ### Presentation 
