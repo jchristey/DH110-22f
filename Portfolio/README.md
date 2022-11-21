@@ -18,6 +18,10 @@ I made two user personas to represent the target users of this app. Through this
 
 I've also established some design iterations of this app. For this portion of the design process I've taken the 'login page' of the app as I believe it will set the tone for how the user will interact with the app as a whole. It is a portion of the site that both the novice user and the expert user would have to initially come into contact with, so it seems to be the perfect page to use as a basis for the interface design of the entire app. Read more about the [interface design](https://github.com/jchristey/DH110-22f/blob/main/InterfaceDesignSystem/README.md)
 
+I made a low fidelity prototype in order to troubleshoot interaction issues. Read more about the [low fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/LowFidelityProto/README.md). 
+
+After troubleshooting and reworking the interactions based on usability testing. 
+
 
 ### Evaluation 
 
