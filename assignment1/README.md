@@ -155,7 +155,7 @@ When users click on the Shop page of the site they are led to an external site o
 Though there were no blatant errors encountered, the events page is blank when it opens to October, making it seem as if there are no events at all in the future), perhaps leading users to feel that they failed to find the event. 
  **(1)**
 
-*No improvements.*
+*Add text that indicates how far in advance events are posted, or when new updates will come out.*
 
 
 #### 6: Recognition Rather than Recall
