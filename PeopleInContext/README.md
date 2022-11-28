@@ -28,11 +28,10 @@ I also messaged their instagram account in order to get in touch with one of the
 
 Observation pictures are attached below for reference. 
 
-![picture of closed garden 1](Screen%20Shot%202022-10-18%20at%208.08.50%20PM.png)
-
-![picture of closed garden 2](Screen%20Shot%202022-10-18%20at%208.08.58%20PM.png)
-
-![picture of closed garden 3](Screen%20Shot%202022-10-18%20at%208.09.08%20PM.png)
+| | | |
+|---|---|---|
+|Picture of closed garden (angle 1)|Picture of closed garden (angle 2)|Picture of closed off fence|
+|<img src="Screen%20Shot%202022-10-18%20at%208.08.50%20PM.png" alt="picture of closed garden 1" width="200"/>|<img src="Screen%20Shot%202022-10-18%20at%208.08.58%20PM.png" alt="picture of closed garden 1" width="200"/>|<img src="Screen%20Shot%202022-10-18%20at%208.09.08%20PM.png" alt="picture of closed garden 3" width="200"/>|
 
 Because of this roadblock in my plan, I decided to conduct a contextual inquiry interview with my roommate, Amanda, about her experience composting. 
 
@@ -49,6 +48,4 @@ There were a few noteworthy insights I got from this interview. The first was th
 From the background questions, I also discovered more in terms of the current reality of students in apartments in Westwood. While in dorms at UCLA students are encouraged to compost and recycle and the resources for them to do so are present (sectionned trash cans for recycling, compost, landfill) with information on what to put in each bin. However when students move to apartment buildings off campus they often aren't given the same resources to compost and are left asking what to do with their food scraps. 
 
 It was also important to see how much this potential user valued compost in comparison with other acts of sustainability. While she considered herself to be an environmentalist quite foundationally (7/10), she rated compost as being a 5/10 in terms of importance to her. This will be important to consider in either transitionning away from the subject of compost to a sustainability issue closer to students' hearts or when designing our product to do so with this in consideration. In this way, another design problem to solve will be emphasizing the importance of the issue and essentially making people care. 
-
-
 
