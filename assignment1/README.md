@@ -27,7 +27,7 @@ This site covers elements that are and are not recyclable as well as local infor
 
 #### 1: Visibility of System Status
 
-When scrolling down the page the user loses sight of the menu bar and the title of the page they are currently accessing. This may lead to confusion as to what information they are looking at and what stage of the site they are in. **(1)**
+When scrolling down the page the user loses sight of the menu bar and the title of the page they are currently accessing. This may lead to confusion as to what information they are looking at and what stage of the site they are in. They do, however, provide a red button at the bottom that naviagates the user back to the top menu. However, this 'red up' icon may not be easily comprehended or perceived. **(1)**
 
 *Recommendation: Have the menu bar follow the user as they scroll down the page to easily change tabs while reading. Indicate the page you are currently on in the menu bar through changing the color or boldness.* 
 
@@ -86,7 +86,7 @@ In the “Local Recycling Information” section of the site the cities are list
 
 #### 8: Aesthetic and Minimalist Design
 
-The design of the site seems to be appropriate for their target audience, as the more colorful interface seems to be geared towards keeping children engaged in the content of the site. **(2)**
+The design of the site seems to be appropriate for their target audience, as the more colorful interface seems to be geared towards keeping children engaged in the content of the site. As outlined by this [article](https://www.rasmussen.edu/degrees/design/blog/web-design-for-kids/) from Rasmussen University, children respond well to colorful interfaces that incorporate animation and engaging characters. **(2)**
 
 ![screen shot of site home page: child friendly](../turtle.png)
 
@@ -152,7 +152,8 @@ When users click on the Shop page of the site they are led to an external site o
 
 #### 5: Error Prevention
 
-No errors encountered. **(0)**
+Though there were no blatant errors encountered, the events page is blank when it opens to October, making it seem as if there are no events at all in the future), perhaps leading users to feel that they failed to find the event. 
+ **(1)**
 
 *No improvements.*
 
