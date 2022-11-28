@@ -7,7 +7,7 @@ Since becoming a citizen of Westwood and moving off of the UCLA campus, I've fou
 
 ### Research
 
-| |Research|
+| | |
 |---|---|
 |Heuristic Evaluation |I conducted heuristic evaluation of IRecycleSmart and LACompost to see the current UX issues of sites related to this topic. Read more about this [heuristic evaluation](https://github.com/jchristey/DH110-22f/tree/main/assignment1).|
 |Usability Test |I also conducted usability testing with the IRecycleSmart site. In my heuristic evaluation I found that the site could use some improvement in terms of user control and freedom and flexibility and efficiency of use. Because of this, in this specific UT I wanted to observe how the user found less prominent features of the site, such as the "grass clippings" section, the drop-off mandated items section and the locator associated, and the city lookup function, in order to complete tasks related to finding what they can recycle and how to do so. Read more on my [usability test](https://github.com/jchristey/DH110-22f/tree/main/PilotUT).|
