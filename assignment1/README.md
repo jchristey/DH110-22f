@@ -19,7 +19,7 @@ The sites I've chosen to analyze for this project shed light on the current stat
 3 = Major usability problem: important to fix, so should be given high priority
 
 
-### First Site: [IRecycleSmart](https://irecyclesmart.com/organics/?gclid=CjwKCAjws--ZBhAXEiwAv-RNL3ui9vpE_2HkgzaXuG6bMstDJ6OA0oDMZgT97EETUh3T09LdSFYaRRoC7csQAvD_BwE)
+### First Site: [IRecycleSmart](https://irecyclesmart.com/organics/)
 
 This site covers elements that are and are not recyclable as well as local information regarding recycling more generally. The design of the site seems to indicate that it could be used for educating young children about these concepts, as there is a cartoon turtle present throughout. Though rudimentary in some elements the site is succesful in its intention to provide direct contact with information regarding what can and cannot be recycled. 
 
