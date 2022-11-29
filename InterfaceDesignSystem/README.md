@@ -29,11 +29,9 @@ Here I provided a few color variations both in blue and green tints.
 
 With the following colors for each color combination: 
 
-##### Green
-![green dark](green2.png)
-
-##### Blue
-![blue light](blue1.png)
+| | |
+|---|---|
+|![green dark](green2.png)|![blue light](blue1.png)|
 
 #### Typography
 ![typographic variation](font.png)
