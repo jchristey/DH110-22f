@@ -40,11 +40,11 @@ With the following colors for each color combination:
 
 The following samples use the fonts (from left to right): 
 
-#1: Inter: which is good for online readibility as it was designed specifically for computer screens. 
+#1: **Inter**: which is good for online readibility as it was designed specifically for computer screens. 
 
-#2: Open Sens: which is fairly neutral and approachable, with an upright style. 
+#2: **Open Sens**: which is fairly neutral and approachable, with an upright style. 
 
-#3: Roboto Condensed: a more geometric font, that still has some friendly curves. 
+#3: **Roboto Condensed**: a more geometric font, that still has some friendly curves. 
 
 All of which are in size 24 and have varied weights associated with them accross the interface based on where the text is and what it is being used to say. 
 
