@@ -76,15 +76,18 @@ Based on the impression test, I've made an interface design that uses:
 
 Attached below is a mockup of the login page using the findings of the impression test. 
 
-![final interface design](signup). 
+<p align="center">
+    <img width="200" src="signup.png" alt="final interface design">
+</p>
 
 Attached below (for the accessibility check) is the combination of these options for the final interface. 
 
 ### Accessibility check
 
-![contrast check](contrast3.png)
+I used this final interface design to conduct accessibility (color contrast) checks.
 
-Pictured above is one of the screenshots of the color contrast accessibility test done on Figma through the Plugin 'Color contrast'. I decided to feature the least glaring contrast to show that it still passes the WCAG AA test. 
+    <img width="200" src="contrast3.png" alt="contrast check">
+</p>
 
 ### Reflection 
 
