@@ -9,6 +9,11 @@ Since becoming a citizen of Westwood and moving off of the UCLA campus, I've fou
 
 I conducted heuristic evaluation of the sites IRecycleSmart and LACompost to see the current UX issues of sites related to this recycle and compost. In doing so I learned more about the desires of the user, what they did and didn’t respond well to and how they prefer to interact with these types of online resources. Read more about this [heuristic evaluation](https://github.com/jchristey/DH110-22f/tree/main/assignment1).
 
+| IRecycleSmart Website | CompostLA Website |
+| ------------- | ------------- |
+| ![IRecycleSmart home page](RecycleSmart.png) | ![CompostLA home page](CompostLA.png)  |
+
+
 ### Competitor Analysis: Usability Test 
 
 I also conducted usability testing with the IRecycleSmart site. In my heuristic evaluation I found that the site could use some improvement in terms of user control & freedom as well as flexibility and efficiency of use. Because of this, in this specific UT I wanted to observe how the user found less prominent features of the site, such as the "grass clippings" section, the drop-off mandated items section and the city lookup function, in order to complete tasks related to finding what they can recycle and how to do so. Read more on my [usability test](https://github.com/jchristey/DH110-22f/tree/main/PilotUT).
