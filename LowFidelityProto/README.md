@@ -24,6 +24,8 @@ For this project I outlined two tasks that a user may use the app to accomplish:
 
 ![whole prototype](Proto1.png)
 
+*Note: each frame has a 'back arrow' in the top left corner of the screen, when pressed it should navigate to the frame the user was on directly preceeding the current frame.*
+
 I decided to seperate the two tasks from one another as they would have the same initial landing page but the login and account creation sections would be seperate depending on the user, with 'founders' have more functions availible to them than someone who is simply a guest on the app. As to not confuse the my user (in the case of the user test of this prototype) I elected to seperate these two flows. 
 
 #### Task 1
@@ -37,6 +39,8 @@ I decided to seperate the two tasks from one another as they would have the same
 #### Testing the tasks
 
 Attached below are screenshots of the user's flow arrows. Attached [here](https://drive.google.com/drive/folders/1PqkHco8QMXvWrrW_XU9dZKQ4U_-YwN0x?usp=share_link) is the screenrecording of this process. 
+
+*Note the user crossed out frames throughout their navigation of the system. I asked them to do that throughout the process to keep track of which functions they thought were unecessary in the completion of the final task. Because I wanted the app to support a 'login' and 'sign up' function, I included both frames in the prototype, however, as the task directed the user to create an account, they opted to use the 'sign up' function and didn't need to access the 'login' page.*
 
 ##### Task 1
 
