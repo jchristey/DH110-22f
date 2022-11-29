@@ -24,10 +24,17 @@ I also conducted user research with target users. I was particularly curious as 
 ### UX Storytelling
 
 I made two user personas to represent the target users of this app. Through this storytelling process I was able to create target users that are similar in geographic area (on and around college campuses) and age and education level (current college students), yet differ in their level of engagement with environmental issues and involvement within university composting initiatives. Thanks to this, I was able to create a more distinct picture of who is using different features of the app and how best to design processes that are clear to these specific sets of users. Read more about these [user personas](https://github.com/jchristey/DH110-22f/blob/main/UserPersonas/README.md).
+| User Personas and Empathy & Journey Maps |
+| ------------- | 
+| ![User Personas and Empathy & Journey Maps](Storytelling.png) |
+
 
 ### Interface Design
 
 I've also established some design iterations of this app. For this portion of the design process I've taken the 'login page' of the app as I believe it will set the tone for how the user will interact with the app as a whole. It is a portion of the site that both the novice user and the expert user would have to initially come into contact with, so it seems to be the perfect page to use as a basis for the interface design of the entire app. Read more about the [interface design](https://github.com/jchristey/DH110-22f/blob/main/InterfaceDesignSystem/README.md)
+| Breakdown of Interface Design Elements |
+| ------------- | 
+| ![Screenshot of Figma file showing Interface design options](Storytelling.png) |
 
 ### Low Fidelity Prototype
 
