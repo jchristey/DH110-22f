@@ -56,7 +56,24 @@ And attached below is a screenshot of the interactive prototype.
 
 #### Cognitive Walkthrough 
 
-We will be completing the cognitive walkthrough in class. 
+Linked [here](https://docs.google.com/document/d/14FMyDFZLI_7Fc-CzTvAsVBAbB6IKi0I9AtL7StLBAqQ/edit?usp=sharing) are some of the comments from my peers during the cognitive walkthrough. 
+
+**Some of the main points of feedback I got during this exercice and how I corrected them were the following:**
+1. Add a logout option within settings menu 
+
+*I added a logout option in the settings menu that sends the user back to the login/signup page*
+
+2. The two login options are confusing, the user may need some additional information (perhaps as a pop-up overlay) 
+
+*I would say this was the biggest structural edit on the app. Instead of seperating the two sections of the app, I made the login/signup page the same and instead opted to have the "Host Garden / Find Gardens" feature be a question option with information added as an overlay to explain which one should be chosen in which scenario*
+
+3. The 'back' option doesn't always lead to the previous page (this is due to multiple frames leading to each other therefore there is no clear back interaction. I did however note in my final presentation of the app that the 'back button' should always lead to the last page the user was on). 
+
+*I made some adjustments to try and make interactions more clearcut so that less pages are leading into a single feature and added a note to my final presentation for developers to have each 'back button' lead to the previous page*
+
+4. The 'Create Blog' button seems inconsistent underneath another account's blog
+
+*I removed this option from the page, instead opting to show more of the comments section so that a user's blogs and that of others' accounts are more distinct*
 
 #### Reflection
 
