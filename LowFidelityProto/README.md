@@ -40,7 +40,7 @@ I decided to seperate the two tasks from one another as they would have the same
 
 Attached below are screenshots of the user's flow arrows. Attached [here](https://drive.google.com/drive/folders/1PqkHco8QMXvWrrW_XU9dZKQ4U_-YwN0x?usp=share_link) is the screenrecording of this process. 
 
-*Note the user crossed out frames throughout their navigation of the system. I asked them to do that throughout the process to keep track of which functions they thought were unecessary in the completion of the final task. Because I wanted the app to support a 'login' and 'sign up' function, I included both frames in the prototype, however, as the task directed the user to create an account, they opted to use the 'sign up' function and didn't need to access the 'login' page.*
+*Note the user crossed out frames throughout their navigation of the system. I asked them to do this throughout the process to keep track of which functions they thought were unecessary to the completion of the final task. Because I wanted the app to support a 'login' and 'sign up' function, I included both frames in the prototype, however, as the task directed the user to create an account, they opted to use the 'sign up' function and didn't need to access the 'login' page.*
 
 ##### Task 1
 
