@@ -75,6 +75,10 @@ Linked [here](https://docs.google.com/document/d/14FMyDFZLI_7Fc-CzTvAsVBAbB6IKi0
 
 *I removed this option from the page, instead opting to show more of the comments section so that a user's blogs and that of others' accounts are more distinct*
 
+5. Minor edits regarding pictures not appearing on Figma's preview mode.'
+
+*After some slight adjustments, I was able to fix this issue*
+
 #### Reflection
 
 I ran through a few preliminary "cognitive walkthroughs" with my roommates but as they were in the earlier stages of the development of the high fidelity prototype and quite casual in nature I opted to leave them out. I did however opt to eliminate the 'back' function from the menu feature as having the app navigate the user back to a common page rather than the page you came from originally was quite disorientating so it seemed more straightforeward to have them be more in control of their navigation with the options listed below. I would have prefered the 'back' function navigate the user back to their last active page but I'm not sure how to do that or if it is possible within Figma's prototyping capabilities. I'll be sure to troubleshoot this in class during the cognitive walkthrough. 
