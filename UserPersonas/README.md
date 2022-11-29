@@ -44,9 +44,18 @@ Below our personas: Matt and Rebecca are shown with their demographic informatio
 
 The scenarios outlined in these journeys represent tasks to take place both for those with a role in establishing profiles for community gardens on the app and those simply searching for a quick fix as to where to put their food scraps. 
 
+#### Rebecca's Scenario
+
+Rebecca is having trouble recruiting people for her community garden. Whenever she mentions it in classes or to friends they seem interested but they say that they’re unable to find reliable and updated information online about the garden. She’s tried pushing the garden and their mission on social media but is unable to gain any sort of engaged following. In her research she stumbled upon the “Compost Near Me” app and saw how other communities have already started pages for their gardens and are able to post blog updates and message potential composters. She downloaded the app and was able to create an account within minutes, adding photos, sending invites to her fellow gardeners to join as collaborators, and drafting blog posts. Within days she was able to gain traction, with multiple students in the area messaging her to schedule compost drop offs and some even messaging to ask for volunteer opportunities in the garden. 
+
 #### Rebecca's Journey
 
 ![Rebeccas's Journey Map](Screen%20Shot%202022-10-25%20at%2010.57.03%20PM.png)
+
+#### Matt's Scenario
+
+Matt comes from a “reuse, reduce, recycle” family, he does his best to save containers and plastic bags to reuse where applicable. However, since coming to college he’s found that compost isn’t super accessible. His apartment building doesn’t have a composting system so he’s been throwing his food scraps in the trash. He didn’t think much of it until some of his friends were chatting one day and they all realized how bad it was that they no longer had a system in place that allowed them to compost. This pushed him to do some research to see if there was anywhere near him where he could drop off food scraps and have it positively impact the environment. After a quick search he finds the ‘Compost Near Me’ app and quickly makes a profile, finds his local garden and sees they have a drop off location just minutes walk away from his apartment. He sends them a message to let them know that he’ll be dropping off his scraps at the end of the week. 
+
 
 #### Matt's Journey
 
