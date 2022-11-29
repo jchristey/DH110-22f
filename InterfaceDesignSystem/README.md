@@ -82,11 +82,11 @@ Attached below (for the accessibility check) is the combination of these options
 
 ### Accessibility check
 
-I used this final interface design to conduct accessibility (color contrast) checks.
+I used this final interface design to conduct accessibility (color contrast) checks. Attached below are some of these color contrast checks to asses the visibility of the text and buttons on the page. 
 
 | | | | | |
 |---|---|---|---|---|
-|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|
+|![acc](acc1.png)|![acc](acc2.png)|![acc](acc3.png)|![acc](acc4.png)|![acc](acc5.png)|
 
 ### Reflection 
 
