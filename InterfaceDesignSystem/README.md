@@ -68,7 +68,17 @@ The options above give variations of where the logo can be integrated into the i
 
 Linked [here](https://drive.google.com/drive/folders/1ok9FVkqj3L5891vNIX8O9tQquJb2ofZJ?usp=share_link) is the impression test. 
 
-Based on the impression test, the more rounded button (20), the blue color scheme, the Roboto Condensed font, and the split background logo (last sample) were the preferred options. Attached below (for the accessibility check) is the combination of these options for the final interface. 
+Based on the impression test, I've made an interface design that uses: 
+
+- The more rounded button (20)
+- The blue color scheme, the Roboto Condensed font
+- The split background logo (last sample) were the preferred options 
+
+Attached below is a mockup of the login page using the findings of the impression test. 
+
+![final interface design](). 
+
+Attached below (for the accessibility check) is the combination of these options for the final interface. 
 
 ### Accessibility check
 
