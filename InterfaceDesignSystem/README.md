@@ -84,8 +84,9 @@ Attached below (for the accessibility check) is the combination of these options
 
 I used this final interface design to conduct accessibility (color contrast) checks.
 
-    <img width="200" src="contrast3.png" alt="contrast check">
-</p>
+| | | | | |
+|---|---|---|---|---|
+|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|![acc](Screen Shot 2022-11-28 at 10.56.54 PM.png)|
 
 ### Reflection 
 
