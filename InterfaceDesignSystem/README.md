@@ -76,7 +76,7 @@ Based on the impression test, I've made an interface design that uses:
 
 Attached below is a mockup of the login page using the findings of the impression test. 
 
-![final interface design](Signup.png). 
+![final interface design](signup). 
 
 Attached below (for the accessibility check) is the combination of these options for the final interface. 
 
