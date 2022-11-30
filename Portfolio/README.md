@@ -72,7 +72,7 @@ I learned some very important things from these tests, allowing me to better my 
 
 The first one I administered shed some light on the interactions between pages. While editing some components based off of the notes from the cognitive walkthrough some of the interactions had been mixed and thus led to the wrong pages, I was able to take a closer look at these and fix them to make the flow more logical. 
 
-After having made these edits I conducted the second usability test which illuminated a further need to distinguish between the 'Host a garden' and 'Find gardens near me' buttons. For this test I had to direct the user back to these options and put specific focus on which one she should choose for which task. After the usability test the user did say that she felt she was too hasty and that's why she missed these. I did however adjust the color of the information button to further encourage the user to use it to gain further information. Other than this the user was able to quickly find all other functions. 
+After having made these edits I conducted the second usability test which illuminated a further need to distinguish between the 'Host garden' and 'Find gardens' buttons. During this test I had to direct the user back to these options and put specific focus on which one she should choose for which task. After the usability test the user did say that she felt she was too hasty and that's why she missed these. I did however adjust the color of the information button to further encourage the user to use it to gain further information on these options before choosing. Other than this the user was able to quickly find all other functions. 
 
 ### Presentation 
 
