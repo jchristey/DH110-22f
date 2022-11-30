@@ -76,9 +76,9 @@ After having made these edits I conducted the second usability test which illumi
 
 ### Presentation 
 
-[![DH110 Project Pitch](https://i.ytimg.com/vi/iee8gJfuAd0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLABDCG1VeH0_DhI0jEao)](https://youtu.be/iee8gJfuAd0 "Project Pitch")
-
 [![DH110 Project Pitch](thumbnail.png)](https://youtu.be/iee8gJfuAd0 "Project Pitch")
+
+^ Please click above to view my project pitch. 
 
 
 ### Conclusion
