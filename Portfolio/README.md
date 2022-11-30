@@ -10,7 +10,7 @@ After a series of tests and trials, I determined that community gardens are miss
 
 ### Competitor analysis: Heuristic Evaluation
 
-I conducted heuristic evaluations of the sites IRecycleSmart and LACompost to see the current UX issues of sites related to recycling and compost. In doing so I learned more about the desires of the user, what they did and didn’t respond well to and how they prefer to interact with these types of online resources. Read more about this [heuristic evaluation](https://github.com/jchristey/DH110-22f/tree/main/assignment1).
+I conducted heuristic evaluations of the sites IRecycleSmart and LACompost to see the current UX issues of sites related to recycling and compost. In doing so I learned more about the current environment of recycling and compost online and what how best to organize information in a clear and concise way. Read more about this [heuristic evaluation](https://github.com/jchristey/DH110-22f/tree/main/assignment1).
 
 | IRecycleSmart Website | CompostLA Website |
 | ------------- | ------------- |
