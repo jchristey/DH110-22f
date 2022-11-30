@@ -2,8 +2,11 @@
 
 ## Jade Christey, DH110 UX+UI design, 2022 Fall 
 
+### Introduction
+Since becoming a citizen of Westwood and moving off of the UCLA campus, I've found that a lot of the neighborhood’s apartment buildings don't provide sufficient means to dispose of compost. In line with the Sustainable Development goal: Sustainable Cities, I'm hoping to propose a platform on which users can find local spaces (community gardens, compost sites, etc) to dispose of their food waste in sustainable ways. 
+
 ### Design Statement 
-Since becoming a citizen of Westwood and moving off of the UCLA campus, I've found that a lot of the neighborhood’s apartment buildings don't provide sufficient means to dispose of compost. In line with the Sustainable Development goal: Sustainable Cities, I'm hoping to propose a platform on which users can find local spaces (community gardens, compost sites, etc) to dispose of their food waste in sustainable ways. From this platform, garden hosts can update the community on recent endeavors, communicate with potential gardeners and composters, post blogs and interact with other garden leaders. More novice users on the other hand can use the app to find gardens near them, learn about ways to compost, and connect with others looking to do the same. By uniting people with similar desires for environmental justice, this platform searches to make communities more sustainable by increasing the public accessibility of existing community gardens. 
+After a series of tests and trials, I determined that community gardens are missing a sufficient online platform from which they can publicize to the public and share amongst expert users. This platform fills a need by garden hosts to update the community on recent endeavors, communicate with potential gardeners and composters, post blogs and interact with other garden leaders. More novice users on the other hand can use the app to find gardens near them, learn about ways to compost, and connect with others looking to do the same. By uniting people with similar desires for environmental justice, this platform searches to make communities more sustainable by increasing the public accessibility presence of existing community gardens. 
 
 ### Competitor analysis: Heuristic Evaluation
 
