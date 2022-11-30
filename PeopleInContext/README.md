@@ -28,9 +28,8 @@ I also messaged their instagram account in order to get in touch with one of the
 
 Observation pictures are attached below for reference. 
 
-| | | |
-|---|---|---|
 |Picture of closed garden (angle 1)|Picture of closed garden (angle 2)|Picture of closed off fence|
+|---|---|---|
 |<img src="Screen%20Shot%202022-10-18%20at%208.08.50%20PM.png" alt="picture of closed garden 1" width="200"/>|<img src="Screen%20Shot%202022-10-18%20at%208.08.58%20PM.png" alt="picture of closed garden 1" width="200"/>|<img src="Screen%20Shot%202022-10-18%20at%208.09.08%20PM.png" alt="picture of closed garden 3" width="200"/>|
 
 Because of this roadblock in my plan, I decided to conduct a contextual inquiry interview with my roommate, Amanda, about her experience composting. 
