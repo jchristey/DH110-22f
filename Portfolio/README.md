@@ -47,7 +47,7 @@ I've also established some design iterations of this app. For this portion of th
 
 ### Low Fidelity Prototype
 
-I made a low fidelity prototype in order to troubleshoot interaction issues. This prototype supports two main tasks a user would use the app to accomplish: messaging a garden and creating a blog. Read more about the [low fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/LowFidelityProto/README.md).
+I made a low fidelity prototype in order to outline core tasks that the app supports and troubleshoot interaction issues. This prototype supports two main tasks a user would use the app to accomplish: messaging a garden and creating a blog. Read more about the [low fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/LowFidelityProto/README.md).
 
 | Low Fidelity Prototype |
 | ------------- | 
