@@ -76,6 +76,9 @@ After having made these edits I conducted the second usability test which illumi
 
 ### Presentation 
 
+[![DH110 Project Pitch](https://i.ytimg.com/vi/iee8gJfuAd0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLABDCG1VeH0_DhI0jEao)](https://youtu.be/iee8gJfuAd0 "Project Pitch")
+
+
 ### Conclusion
 
 Through this design process I’ve developed a new passion for UX/UI which I barely realized was a path prior to having taken this course. I was empowered by my ability to use skills that I’ve developed from various different endeavors: qualitative research, design principles, critical thinking and continual tweaking of different aspects to come to a fine-tuned final product. Finally, I’m proud to have participated in a design process that aims to make the world a better place – in my case, specifically through designing a platform on which users can unite to locate spaces that ameliorate not only their composting process but also contribute to a sustainable method of growing vegetables and contributing to their local community. 
