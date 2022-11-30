@@ -64,7 +64,7 @@ After troubleshooting and reworking the low fidelity prototype's interactions ba
 
 ### Evaluation 
 
-Throughout the design process I continuously conducted user testing to gain valuable feedback. Luckily the target users for this app were college students so I was easily able to survey my roommates and classmates. After the cognitive walkthrough with my classmates I conducted two usability tests with users from the target user demographic. 
+Throughout the design process I continuously conducted usability testing to gain valuable feedback. Luckily the target users for this app were college students so I was easily able to survey my roommates and classmates. After the cognitive walkthrough with my classmates I conducted two usability tests with users from the target user demographic. 
 
 Linked [here](https://drive.google.com/drive/folders/1WOAuXySPIomjBzXY3a8luFIbq9x1qSMx?usp=share_link) are the video recordings of the usability tests. 
 
