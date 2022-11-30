@@ -39,7 +39,7 @@ I made two user personas to represent the target users of this app. Through this
 
 ### Interface Design
 
-I've also established some design iterations of this app. For this portion of the design process I've taken the 'login page' of the app as I believe it will set the tone for how the user will interact with the app as a whole. It is a portion of the site that both the novice user and the expert user would have to initially come into contact with, so it seems to be the perfect page to use as a basis for the interface design of the entire app. Read more about the [interface design](https://github.com/jchristey/DH110-22f/blob/main/InterfaceDesignSystem/README.md)
+I've also established some design iterations of this app. For this portion of the design process I've taken the 'login page' of the app as I believe it will set the tone for how the user will interact with the app as a whole. It is a portion of the site that both the novice user and the expert user would have to initially come into contact with, so it seems to be the perfect page to use as a basis for the interface design of the entire app. Read more about the [interface design](https://github.com/jchristey/DH110-22f/blob/main/InterfaceDesignSystem/README.md).
 
 | Breakdown of Interface Design Elements |
 | ------------- | 
@@ -55,7 +55,7 @@ I made a low fidelity prototype in order to troubleshoot interaction issues. Thi
 
 ### High Fidelity Prototype
 
-After troubleshooting and reworking the low fidelity prototype's interactions based on usability testing and adding in interface design elements, I made a high fidelity prototype This prototype supported the same tasks as the low fidelity prototype with additional interactions to aid user flow and make the user interface more engaging. Read more about the  [high fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/HighFidelityPrototype/README.md).|
+After troubleshooting and reworking the low fidelity prototype's interactions based on usability testing and adding in interface design elements, I made a high fidelity prototype This prototype supported the same tasks as the low fidelity prototype with additional interactions to aid user flow and make the user interface more engaging. Read more about the  [high fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/HighFidelityPrototype/README.md).
 
 | Early High Fidelity Prototype | Final High Fidelity Prototype (with interactions shown) |
 | ------------- | ------------- |
