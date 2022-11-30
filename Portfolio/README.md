@@ -21,6 +21,10 @@ I also conducted usability testing with the IRecycleSmart site. In my heuristic 
 ### User Research: Contextual Inquiry
 I also conducted user research with target users. I was particularly curious as to the process of composting on campus. I narrowed down a student initiative on campus which encourages students to get involved in gardening; the initiative is called DigUCLA. The garden located in Sunset Rec hosts weekly gardening workshops, welcomes gardeners of all experience levels and all the produce grown is donated to the CPO Food Closet. I used research into this garden as an example of how best to integrate this app into the existing landscape of local composting. Read more about [user research](https://github.com/jchristey/DH110-22f/blob/main/PeopleInContext/README.md).
 
+|Picture of closed garden (angle 1)|Picture of closed garden (angle 2)|Picture of closed off fence|
+|---|---|---|
+|<img src="Screen%20Shot%202022-10-18%20at%208.08.50%20PM.png" alt="picture of closed garden 1" width="200"/>|<img src="Screen%20Shot%202022-10-18%20at%208.08.58%20PM.png" alt="picture of closed garden 1" width="200"/>|<img src="Screen%20Shot%202022-10-18%20at%208.09.08%20PM.png" alt="picture of closed garden 3" width="200"/>|
+
 ### UX Storytelling
 
 I made two user personas to represent the target users of this app. Through this storytelling process I was able to create target users that are similar in geographic area (on and around college campuses) and age and education level (current college students), yet differ in their level of engagement with environmental issues and involvement within university composting initiatives. Thanks to this, I was able to create a more distinct picture of who is using different features of the app and how best to design processes that are clear to these specific sets of users. Read more about these [user personas](https://github.com/jchristey/DH110-22f/blob/main/UserPersonas/README.md).
