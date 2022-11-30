@@ -34,15 +34,22 @@ I made two user personas to represent the target users of this app. Through this
 I've also established some design iterations of this app. For this portion of the design process I've taken the 'login page' of the app as I believe it will set the tone for how the user will interact with the app as a whole. It is a portion of the site that both the novice user and the expert user would have to initially come into contact with, so it seems to be the perfect page to use as a basis for the interface design of the entire app. Read more about the [interface design](https://github.com/jchristey/DH110-22f/blob/main/InterfaceDesignSystem/README.md)
 | Breakdown of Interface Design Elements |
 | ------------- | 
-| ![Screenshot of Figma file showing Interface design options](Storytelling.png) |
+| ![Screenshot of Figma file showing Interface design options](Interfacedesign.png) |
 
 ### Low Fidelity Prototype
 
 I made a low fidelity prototype in order to troubleshoot interaction issues. This prototype supports two main tasks a user would use the app to accomplish: messaging a garden and creating a blog. Read more about the[low fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/LowFidelityProto/README.md).
+| Low Fidelity Prototype |
+| ------------- | 
+| ![Low Fidelity Prototype](LowFidelity.png) |
 
 ### High Fidelity Prototype
 
 After troubleshooting and reworking the low fidelity prototype's interactions based on usability testing and adding in interface design elements, I made a high fidelity prototype This prototype supported the same tasks as the low fidelity prototype with additional interactions to aid user flow and make the user interface more engaging. Read more about the  [high fidelity prototype](https://github.com/jchristey/DH110-22f/blob/main/HighFidelityPrototype/README.md).|
+
+| Early High Fidelity Prototype | Final High Fidelity Prototype (with interactions shown) |
+| ------------- | ------------- |
+| ![High Fidelity Prototype](HighFidelity.png) | ![High Fidelity Prototype, with interactions shown](proto.png)  |
 
 
 ### Evaluation 
@@ -59,3 +66,6 @@ After having made these edits I conducted the second usability test which illumi
 
 ### Presentation 
 
+### Conclusion
+
+Through this design process I’ve developed a new passion for UX/UI which I barely realized was a path prior to having taken this course. I was empowered by my ability to use skills that I’ve developed from various different endeavors: qualitative research, design principles, critical thinking and continual tweaking of different aspects to come to a fine-tuned final product. Finally, I’m proud to have participated in a design process that aims to make the world a better place – in my case, specifically through designing a platform on which users can unite to locate spaces that ameliorate not only their composting process but also contribute to a sustainable method of growing vegetables and contributing to their local community. 
