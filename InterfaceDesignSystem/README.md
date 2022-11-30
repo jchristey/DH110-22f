@@ -72,13 +72,12 @@ Based on the impression test, I've made an interface design that uses:
 - The blue color scheme, the Roboto Condensed font
 - The split background logo (last sample) were the preferred options 
 
-Attached below is a mockup of the login page using the findings of the impression test. 
+Attached below is a mockup of the final design for the login page using the findings of the impression test. 
 
 <p align="center">
     <img width="200" src="signup.png" alt="final interface design">
 </p>
 
-Attached below (for the accessibility check) is the combination of these options for the final interface. 
 
 ### Accessibility check
 
